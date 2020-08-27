@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🙏 Namaste, I'm Chetan Muliya
 
 > - He started his career as an Android Developer with company Domain Edutech Pvt. Ltd. It was an EduTech startup and he was a lead developer there. Venture Name [WingXp](https://www.wingxp.com/).
 > - He has more than 2 yrs of experience. So far, he published almost 6+ apps on playstore.
