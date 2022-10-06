@@ -1,4 +1,4 @@
-Hi 👋 My name is chetan muliya
+Hi 👋 My name is Chethan Muliya
 ==============================
 
 Android Developer
