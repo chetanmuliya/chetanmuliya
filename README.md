@@ -7,7 +7,7 @@ Android Developer
 An experienced mobile app developer having a track record of successfully creating Android Apps that are both well received and commercially viable. Published 8+ apps on playstore and developed new features for an existing app that has over 1 million downloads. Extensive experience in design, development, testing, and deployment of android apps. I am also an active learner, keen to expand my knowledge. Seeking an opportunity where I can share my knowledge and experience to help the company achieve goals while building my professional career.
 
 *   🌍  I'm based in Mumbai, India
-*   🖥️  See my portfolio at [https://www.linkedin.com/in/chetanmuliya133/](http://play.google.com/store/apps/details?id=com.olm.magtapp&hl=en_IN&gl=US)
+*   🖥️  See my portfolio at [LINKEDIN](https://www.linkedin.com/in/chetanmuliya133/)
 *   ✉️  You can contact me at [chetan.muliya133@gmail.com](mailto:chetan.muliya133@gmail.com)
 *   🧠  I'm learning Jetpack Compose
 *   🤝  I'm open to collaborating on Android Projects### Skills 
